@@ -1,1 +1,1 @@
-web: python api.py
+web: python autoshopify_api_v3.py
